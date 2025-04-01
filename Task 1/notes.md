@@ -11,7 +11,7 @@ In this task, we perform exploratory data analysis (EDA) on the restaurant datas
 - Conduct basic descriptive statistics on numerical and categorical columns.
 - Identify the top 5 cuisines and cities based on restaurant data.
 
-  ##Steps Taken**
+  ## **Steps Taken**
 ### **Step 1: Dataset Overview**
 
 - Loaded the dataset and examined its shape (rows & columns).
