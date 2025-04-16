@@ -8,7 +8,7 @@ The focus on analyzing customer preferences by exploring cuisine ratings, price 
 - Identify the highest-rated cuisines based on average ratings.
 - Analyze relationship between cuisines and ratings.
 - Identify popular cuisines by votes.
-- 
+
 ### Price Range Analysis:
 - Compare ratings across different price points.
 - Determine which price ranges receive the highest average ratings.
